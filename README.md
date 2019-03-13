@@ -16,7 +16,7 @@ Running your own version of PulseRoot is fairly easy.
 That being said, there are steps you will have to take:
 
 #### Cloning and Installing
-Clone the repo: `git clone https://www.github.com/SmartieCodes/pulseroot` 
+Clone the repo: `git clone https://www.github.com/diamondgrid/pulseroot-web`  
 In the directory with `package.json`, run `npm install`.
 
 #### Setting up files and variables
