@@ -166,7 +166,7 @@ button:hover {
 }
 
 button[disabled], input[disabled] {
-	color: grey;
+	color: #696969;
 	cursor: not-allowed;
 }
 
