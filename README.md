@@ -21,7 +21,7 @@ In the directory with `package.json`, run `npm install`.
 
 #### Setting up files and variables
 * Rename `config.json_example` to `config.json`
-* Rename `example.sqlite` to `db.sqlite`
+* Rename `database/example.sqlite` to `database/db.sqlite`
 * Change the values in `config.json` to Discord Webhook URLs... or don't. It's optional, after all.
 * Go to your Environment Variables configuration.
 * Add a value for `SESSION_SECRET`. This is used for Express sessions.
