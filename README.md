@@ -1,3 +1,6 @@
+# END OF LIFE NOTICE
+The "PulseRoot" project is being abandoned for the Spark project. Spark is a cross-platform shared music player, with the aim to help everyone around their world share their world through their favorite music. Spark will include text chat in each room, and will also include private messaging with end-to-end encryption. Be on the lookout - it's coming soon!
+
 # PulseRoot
 ## Secure, fast, and reliable web chat application.
 
